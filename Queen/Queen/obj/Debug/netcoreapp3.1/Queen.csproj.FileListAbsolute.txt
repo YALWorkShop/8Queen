@@ -1,0 +1,13 @@
+C:\Users\anm82\source\repos\Queen\Queen\bin\Debug\netcoreapp3.1\Queen.exe
+C:\Users\anm82\source\repos\Queen\Queen\bin\Debug\netcoreapp3.1\Queen.deps.json
+C:\Users\anm82\source\repos\Queen\Queen\bin\Debug\netcoreapp3.1\Queen.runtimeconfig.json
+C:\Users\anm82\source\repos\Queen\Queen\bin\Debug\netcoreapp3.1\Queen.runtimeconfig.dev.json
+C:\Users\anm82\source\repos\Queen\Queen\bin\Debug\netcoreapp3.1\Queen.dll
+C:\Users\anm82\source\repos\Queen\Queen\bin\Debug\netcoreapp3.1\Queen.pdb
+C:\Users\anm82\source\repos\Queen\Queen\obj\Debug\netcoreapp3.1\Queen.csprojAssemblyReference.cache
+C:\Users\anm82\source\repos\Queen\Queen\obj\Debug\netcoreapp3.1\Queen.AssemblyInfoInputs.cache
+C:\Users\anm82\source\repos\Queen\Queen\obj\Debug\netcoreapp3.1\Queen.AssemblyInfo.cs
+C:\Users\anm82\source\repos\Queen\Queen\obj\Debug\netcoreapp3.1\Queen.csproj.CoreCompileInputs.cache
+C:\Users\anm82\source\repos\Queen\Queen\obj\Debug\netcoreapp3.1\Queen.dll
+C:\Users\anm82\source\repos\Queen\Queen\obj\Debug\netcoreapp3.1\Queen.pdb
+C:\Users\anm82\source\repos\Queen\Queen\obj\Debug\netcoreapp3.1\Queen.genruntimeconfig.cache
